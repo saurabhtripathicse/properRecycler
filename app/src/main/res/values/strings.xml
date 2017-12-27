@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">ProperRecycler</string>
+
+    <string-array name="planets_array">
+        <item>	AP	</item>
+        <item>	AR	</item>
+        <item>	AS	</item>
+        <item>	BR	</item>
+        <item>	CG	</item>
+        <item>	DL	</item>
+        <item>	GA	</item>
+        <item>	GJ	</item>
+        <item>	HR	</item>
+        <item>	HP	</item>
+        <item>	JK	</item>
+        <item>	JS	</item>
+        <item>	KA	</item>
+        <item>	KL	</item>
+        <item>	MP	</item>
+        <item>	MH	</item>
+        <item>	MN	</item>
+        <item>	ML	</item>
+        <item>	MZ	</item>
+        <item>	NL	</item>
+        <item>	OR	</item>
+        <item>	PB	</item>
+        <item>	RJ	</item>
+        <item>	SK	</item>
+        <item>	TN	</item>
+        <item>	TR	</item>
+        <item>	UK	</item>
+        <item>	UP	</item>
+        <item>	WB	</item>
+        <item>	AN	</item>
+        <item>	CH	</item>
+        <item>	DN	</item>
+        <item>	DD	</item>
+        <item>	LD	</item>
+        <item>	PY	</item>
+    </string-array>
+
+
+
+
+
+</resources>
